@@ -1,1 +1,1 @@
-this a project 
+This is a simple shell group project.
